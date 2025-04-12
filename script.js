@@ -52,6 +52,12 @@ window.addEventListener("load", () => {
     const puertaIzq = document.getElementById("puertaIzq");
     const puertaDer = document.getElementById("puertaDer");
     const contenedor = document.getElementById("contenedor");
+    const sonido = document.getElementById('metalSound');
+    sonido.muted = false;
+   
+
+    
+
   
     // Abre las puertas
     setTimeout(() => {
