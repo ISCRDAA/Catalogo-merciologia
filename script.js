@@ -24,10 +24,30 @@ function mostrarProductos(productos) {
     const card = document.createElement('div');
     card.className = 'card';
 
+    const coloresCategoria = {
+        "Reino vegetal": "#2f5d2c",
+        "Metales": "#8a1e1e",
+        "Industrias Quimicas": "#1e3d59",
+        "Productos farmaceuticos": "#f57c00",
+        "Productos minerales": "#5c5c5c",
+        "Construcción": "#a9742c",
+        "Objetos de arte o coleccion": "#C9B037",
+        "Pieles cueros y peleteria": "#8B4513",
+        "Piedras preciosas": "#0a9d72"
+      };
+      
+      card.style.background = coloresCategoria[producto.categoria] || "#2b4c7e";
+      
+
     card.innerHTML = `
       <img src="${producto.imagen}" alt="${producto.nombre}" class="imagen-producto">
       <h2>${producto.nombre}</h2>
       <p>${producto.descripcion}</p>
+      <span><strong>Capitulo:</strong> ${producto.capitulo}</span>
+      <br>
+      <span><strong>Partida:</strong> ${producto.partida}</span>
+      <br>
+      <span><strong>Sub partida:</strong> ${producto.subpartida}</span>
       <span><strong>Fracción:</strong> ${producto.fraccion_arancelaria}</span>
       <span><strong>Categoría:</strong> ${producto.categoria}</span>
     `;
@@ -66,5 +86,7 @@ window.addEventListener("load", () => {
       contenedor.classList.add("visible");
     }, 900); // espera medio segundo para dar dramatismo
   });
+
+  
   
   
