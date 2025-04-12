@@ -64,7 +64,7 @@ window.addEventListener("load", () => {
       puertaIzq.classList.add("abierta");
       puertaDer.classList.add("abierta");
       contenedor.classList.add("visible");
-    }, 500); // espera medio segundo para dar dramatismo
+    }, 900); // espera medio segundo para dar dramatismo
   });
   
   
