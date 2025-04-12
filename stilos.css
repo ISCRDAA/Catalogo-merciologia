@@ -1,0 +1,164 @@
+body {
+    margin: 0;
+    background: #d9e2ec;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  .contenedor {
+    background: repeating-linear-gradient(
+      to right,
+      #2c3e50,
+      #2c3e50 20px,
+      #34495e 20px,
+      #34495e 40px
+    );
+    border: 8px solid #1a252f;
+    border-radius: 12px;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.4);
+    padding: 30px;
+    max-width: 1200px;
+    width: 95%;
+    color: white;
+  }
+  
+  header h1 {
+    text-align: center;
+    font-size: 2.5rem;
+     font-family: 'Staatliches', sans-serif;
+    margin-bottom: 10px;
+    color: #f8f8f8;
+    letter-spacing: 2px;
+  }
+  
+  header p {
+    text-align: center;
+    font-size: 1.1rem;
+    color: #ddd;
+    margin-bottom: 30px;
+  }
+  
+  .filtro {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .filtro label {
+    font-weight: bold;
+    margin-right: 10px;
+    color: #fff;
+  }
+  
+  #filtroCategoria {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 6px;
+    border: none;
+    background-color: #ecf0f1;
+    color: #333;
+  }
+  
+  
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+  }
+  .card {
+    background: repeating-linear-gradient(
+      -45deg,
+      #2b4c7e,
+      #2b4c7e 10px,
+      #28416f 10px,
+      #28416f 20px
+    );
+    border: 3px solid #1a2f50;
+    border-radius: 6px;
+    color: white;
+    padding: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+    transition: transform 0.2s ease;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 1px 1px 2px black;
+  }
+  
+  .card:hover {
+    transform: scale(1.03);
+  }
+  
+  .card img {
+    border-radius: 4px;
+    margin-bottom: 10px;
+    height: 160px;
+    object-fit: cover;
+    width: 100%;
+    border: 2px solid rgba(255,255,255,0.3);
+  }
+  
+  .card h2 {
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+  
+  .card p,
+  .card span {
+    font-size: 14px;
+    margin-bottom: 4px;
+  }
+  
+  
+  .imagen-producto {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+
+  /* Animación de apertura tipo puerta de contenedor */
+
+  .puerta {
+    position: fixed;
+    top: 0;
+    width: 50%;
+    height: 100%;
+    background: #2c3e50;
+    z-index: 1000;
+    transition: transform 1.2s ease-in-out;
+  }
+  
+  .puerta-izq {
+    left: 0;
+    transform: translateX(0);
+    border-right: 4px solid #1a252f;
+  }
+  
+  .puerta-der {
+    right: 0;
+    transform: translateX(0);
+    border-left: 4px solid #1a252f;
+  }
+  
+  .puerta-izq.abierta {
+    transform: translateX(-100%);
+  }
+  
+  .puerta-der.abierta {
+    transform: translateX(100%);
+  }
+  
+  .oculto {
+    opacity: 0;
+    transition: opacity 0.6s ease-in-out 1s;
+  }
+  
+  .visible {
+    opacity: 1;
+    z-index: 1;
+  }
+  
+  
+  

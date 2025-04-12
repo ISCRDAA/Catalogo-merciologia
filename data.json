@@ -1,0 +1,125 @@
+[
+  {
+    "nombre": "Trióxido de cromo",
+    "descripcion": "Se utiliza como conservante, aunque su aplicación es limitada por su alta toxicidad.",
+    "capitulo": "28",
+    "partida": "2819",
+    "subpartida": "2819.10",
+    "fraccion_arancelaria": "2819.10.01",
+    "imagen":"imagenes/"
+  },
+  {
+    "nombre": "Alforjas",
+    "descripcion": "Bolsas tradicionales utilizadas para transportar equipaje, con dos compartimentos unidos.",
+    "capitulo": "42",
+    "partida": "4201",
+    "subpartida": "4201.00",
+    "fraccion_arancelaria": "4201.00.01"
+  },
+  {
+    "nombre": "Feldespato",
+    "descripcion": "Mineral tectosilicato que constituye una parte significativa de la corteza terrestre.",
+    "capitulo": "25",
+    "partida": "2529",
+    "subpartida": "2529.10",
+    "fraccion_arancelaria": "2529.10.01"
+  },
+  {
+    "nombre": "Apósitos de tejido",
+    "descripcion": "Apósitos fabricados con materiales tejidos como algodón para cubrir y proteger heridas.",
+    "capitulo": "30",
+    "partida": "3005",
+    "subpartida": "3005.10",
+    "fraccion_arancelaria": "3005.10.02"
+  },
+  {
+    "nombre": "Macadán de escorias",
+    "descripcion": "Material usado en la construcción de carreteras, compuesto por escorias y piedras.",
+    "capitulo": "25",
+    "partida": "2517",
+    "subpartida": "2517.20",
+    "fraccion_arancelaria": "2517.20.01"
+  },
+  {
+    "nombre": "Minerales de volframio",
+    "descripcion": "Minerales también conocidos como tungsteno, esenciales para la extracción de este metal.",
+    "capitulo": "26",
+    "partida": "2611",
+    "subpartida": "2611.00",
+    "fraccion_arancelaria": "2611.00.01"
+  },
+  {
+    "nombre": "Colecciones numismáticas",
+    "descripcion": "Incluyen monedas, billetes, medallas y otros objetos relacionados con la moneda.",
+    "capitulo": "97",
+    "partida": "9705",
+    "subpartida": "9705.00",
+    "fraccion_arancelaria": "9705.00.02"
+  },
+  {
+    "nombre": "Musgo del género Sphagnum",
+    "descripcion": "Musgo de turbera utilizado en horticultura y ecosistemas húmedos.",
+    "capitulo": "06",
+    "partida": "0604",
+    "subpartida": "0604.90",
+    "fraccion_arancelaria": "0604.90.01",
+    "imagen": "imagenes/Musgo.jpg",
+    "categoria":"Reino vegetal"
+  },
+  {
+    "nombre": "Cuarzo piezoeléctrico",
+    "descripcion": "Cristal natural usado por su capacidad de convertir energía mecánica en eléctrica.",
+    "capitulo": "71",
+    "partida": "7104",
+    "subpartida": "7104.10",
+    "fraccion_arancelaria": "7104.10.01"
+  },
+  {
+    "nombre": "Polvo de condensación",
+    "descripcion": "Subproducto de cinc en forma de polvo, usado en procesos industriales.",
+    "capitulo": "79",
+    "partida": "7903",
+    "subpartida": "7903.10",
+    "fraccion_arancelaria": "7903.10.01"
+  },
+  {
+    "nombre": "Somieres",
+    "descripcion": "Estructura de soporte para colchones que influye en la comodidad y durabilidad.",
+    "capitulo": "94",
+    "partida": "9404",
+    "subpartida": "9404.10",
+    "fraccion_arancelaria": "9404.10.01"
+  },
+  {
+    "nombre": "Arcilla dilatada",
+    "descripcion": "Tipo específico de arcilla sometida a procesos térmicos que modifican su estructura.",
+    "capitulo": "68",
+    "partida": "6806",
+    "subpartida": "6806.20",
+    "fraccion_arancelaria": "6806.20.01"
+  },
+  {
+    "nombre": "Piritas de hierro tostadas",
+    "descripcion": "Sulfuros de hierro calcinados usados en la obtención de azufre y procesos químicos.",
+    "capitulo": "26",
+    "partida": "2601",
+    "subpartida": "2601.20",
+    "fraccion_arancelaria": "2601.20.01"
+  },
+  {
+    "nombre": "Minerales de torio",
+    "descripcion": "Compuestos naturales con torio, asociados a minerales de tierras raras y zirconio.",
+    "capitulo": "26",
+    "partida": "2612",
+    "subpartida": "2612.20",
+    "fraccion_arancelaria": "2612.20.01"
+  },
+  {
+    "nombre": "Condensadores para máquinas de vapor",
+    "descripcion": "Equipos que transforman vapor en líquido para optimizar eficiencia energética.",
+    "capitulo": "84",
+    "partida": "8404",
+    "subpartida": "8404.20",
+    "fraccion_arancelaria": "8404.20.01"
+  }
+]
