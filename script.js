@@ -61,7 +61,7 @@ fetch('data.json')
           </div>
           <div class="flip-card-back">
             <h3>${producto.nombre}</h3>
-            <p>${producto.descripcion}</p>
+            <p>${producto.reglas}</p>
             <p><strong>Categoría:</strong> ${producto.categoria}</p>
             <a href=${producto.link} target="_blank" class="enlace">
                Abrir enlace <span class="icono">🔗</span>

@@ -35,11 +35,12 @@ body {
   }
   
   header p {
-    text-align: center;
+    text-align: justify;
     font-size: 1.1rem;
     color: #ddd;
     margin-bottom: 30px;
   }
+
   
   .filtro {
     text-align: center;
