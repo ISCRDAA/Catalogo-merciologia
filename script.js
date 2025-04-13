@@ -33,7 +33,8 @@ function mostrarProductos(productos) {
         "Construcción": "#a9742c",
         "Objetos de arte o coleccion": "#C9B037",
         "Pieles cueros y peleteria": "#8B4513",
-        "Piedras preciosas": "#0a9d72"
+        "Piedras preciosas": "#0a9d72",
+        "Manufacturas de cinc": "#5c7080"
       };
       
       card.style.background = coloresCategoria[producto.categoria] || "#2b4c7e";
@@ -48,8 +49,14 @@ function mostrarProductos(productos) {
       <span><strong>Partida:</strong> ${producto.partida}</span>
       <br>
       <span><strong>Sub partida:</strong> ${producto.subpartida}</span>
+      <br>
       <span><strong>Fracción:</strong> ${producto.fraccion_arancelaria}</span>
+      <br>
       <span><strong>Categoría:</strong> ${producto.categoria}</span>
+      <br>
+      <a href=${producto.link} target="_blank" class="enlace"">
+        Abrir enlace <span class="icono">🔗</span>
+    </a>
     `;
 
     contenedor.appendChild(card);

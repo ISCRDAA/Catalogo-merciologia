@@ -7,7 +7,8 @@
     "subpartida": "2819.10",
     "fraccion_arancelaria": "2819.10.01",
     "imagen":"imagenes/Troxido de cromo.jpg",
-    "categoria":"Industrias Quimicas"
+    "categoria":"Industrias Quimicas",
+    "link":"http://www.siicex-caaarem.org.mx/Bases/TIGIE2007.nsf/4caa80bd19d9258006256b050078593c/cdc61424c3dcc507862573020072bb0c?OpenDocument"
   },
   {
     "nombre": "Alforjas",
@@ -96,7 +97,9 @@
     "capitulo": "79",
     "partida": "7903",
     "subpartida": "7903.10",
-    "fraccion_arancelaria": "7903.10.01"
+    "fraccion_arancelaria": "7903.10.01",
+    "categoria":"Manufacturas de cinc",
+    "imagen":"imagenes/Condensacion.jpg"
   },
   {
     "nombre": "Somieres",

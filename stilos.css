@@ -118,6 +118,36 @@ body {
     margin-bottom: 10px;
   }
 
+  /*Enlace externo*/
+
+  .enlace {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 16px;
+    background-color: #EE66A6;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 500;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+  
+  .enlace:hover {
+    background-color: #f0f5f9;
+    transform: scale(1.05);
+  }
+  
+  .enlace .icono {
+    transition: transform 0.2s ease;
+  }
+  
+  .enlace:hover .icono {
+    transform: translateX(4px);
+  }
+  
+  
+
   /* Animación de apertura tipo puerta de contenedor */
 
   .puerta {
