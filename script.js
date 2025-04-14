@@ -47,7 +47,7 @@ fetch('data.json')
             <span><strong>Descripción:</strong> ${producto.descripcion}</span>
             <br>
             <br>
-            <span><strong>Seccion:</strong> ${producto.seccion}</span>
+            <span><strong>Sección:</strong> ${producto.seccion}</span>
             <br>
             <span><strong>Capítulo:</strong> ${producto.capitulo}</span>
             <br>
@@ -55,13 +55,13 @@ fetch('data.json')
             <br>
             <span><strong>Sub-partida:</strong> ${producto.subpartida}</span>
             <br>
-            <span><strong>Fraccion arancelaria:</strong> ${producto.fraccion_arancelaria}</span>
+            <span><strong>Fracción arancelaria:</strong> ${producto.fraccion_arancelaria}</span>
             <br>
             
           </div>
           <div class="flip-card-back">
             <h3>${producto.nombre}</h3>
-            <p>${producto.reglas}</p>
+            <p><strong>Reglas:</strong><br>${producto.reglas}</p>
             <p><strong>Categoría:</strong> ${producto.categoria}</p>
             <a href=${producto.link} target="_blank" class="enlace">
                Abrir enlace <span class="icono">🔗</span>

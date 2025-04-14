@@ -7,7 +7,7 @@
     "partida": "2819",
     "subpartida": "2819.10",
     "fraccion_arancelaria": "2819.10.01",
-    "reglas": "",
+    "reglas": "Regla 1: Clasificación directa basada en el texto legal de la subpartida, que especifica 'óxidos de cromo'.",
     "imagen": "imagenes/Troxido de cromo.jpg",
     "categoria": "Industrias Químicas",
     "link": "http://www.siicex-caaarem.org.mx/Bases/TIGIE2007.nsf/4caa80bd19d9258006256b050078593c/cdc61424c3dcc507862573020072bb0c?OpenDocument"
@@ -20,7 +20,7 @@
     "partida": "4201",
     "subpartida": "4201.00",
     "fraccion_arancelaria": "4201.00.01",
-    "reglas": "",
+    "reglas": "Regla 1 y Regla 6: El producto está mencionado explícitamente en la partida. La Regla 6 aplica para confirmar la subpartida dentro del mismo nivel.",
     "categoria": "Pieles cueros y peletería",
     "imagen": "imagenes/Alforja.jpg",
     "link": "http://www.siicex-caaarem.org.mx/Bases/TIGIE2007.nsf/4caa80bd19d9258006256b050078593c/4cd4e67f63dbb1e4862573020072f680?OpenDocument"
@@ -33,7 +33,7 @@
     "partida": "2529",
     "subpartida": "2529.10",
     "fraccion_arancelaria": "2529.10.01",
-    "reglas": "",
+    "reglas": "Regla 1: El término 'feldespato' está expresamente incluido en el texto legal.",
     "categoria": "Productos minerales",
     "imagen": "imagenes/Feldespato.jpg",
     "link": "http://www.siicex-caaarem.org.mx/Bases/TIGIE2007.nsf/4caa80bd19d9258006256b050078593c/00fa1d03ed0f50c4862573020072b6fa?OpenDocument "
@@ -46,7 +46,7 @@
     "partida": "3005",
     "subpartida": "3005.10",
     "fraccion_arancelaria": "3005.10.02",
-    "reglas": "",
+    "reglas": "Regla 1, Regla 3a y Regla 6: Aunque se trata de tejido, su uso médico requiere clasificación como producto farmacéutico. Regla 3a prioriza el carácter esencial.",
     "categoria": "Productos farmaceuticos",
     "imagen": "imagenes/Apositos.jpg",
     "link": "http://www.siicex-caaarem.org.mx/Bases/TIGIE2007.nsf/4caa80bd19d9258006256b050078593c/fbf16f8d384ea64b862573020072df69?OpenDocument "
@@ -59,7 +59,7 @@
     "partida": "2517",
     "subpartida": "2517.20",
     "fraccion_arancelaria": "2517.20.01",
-    "reglas": "",
+    "reglas": "Regla 1: El producto coincide exactamente con la descripción legal de la subpartida como 'macadán de escorias'.",
     "categoria": "Productos minerales",
     "imagen": "imagenes/Macadan.jpg",
     "link": "http://www.siicex-caaarem.org.mx/Bases/TIGIE2007.nsf/4caa80bd19d9258006256b050078593c/2820ae35ddd15c74862573020072b665?OpenDocument "
@@ -72,7 +72,7 @@
     "partida": "2611",
     "subpartida": "2611.00",
     "fraccion_arancelaria": "2611.00.01",
-    "reglas": "",
+    "reglas": "Regla 1: Producto citado directamente como 'minerales de volframio (tungsteno)'.",
     "categoria": "Productos minerales",
     "imagen": "imagenes/Volframio.jpg",
     "link": "http://www.siicex-caaarem.org.mx/Bases/TIGIE2007.nsf/4caa80bd19d9258006256b050078593c/c0826189840ddf9f862573020072b780?OpenDocument"
@@ -85,7 +85,7 @@
     "partida": "9705",
     "subpartida": "9705.00",
     "fraccion_arancelaria": "9705.00.02",
-    "reglas": "",
+    "reglas": "Regla 1 y Regla 6: Clasificación según la mención directa en la partida. La subpartida se define por Regla 6 por su función cultural específica.",
     "categoria": "Objetos de arte o colección",
     "imagen": "imagenes/Numismaticas.jpeg",
     "link": "http://www.siicex-caaarem.org.mx/Bases/TIGIE2007.nsf/4caa80bd19d9258006256b050078593c/7179b2db313e3f3786257302007371b8?OpenDocument"
@@ -98,7 +98,7 @@
     "partida": "0604",
     "subpartida": "0604.90",
     "fraccion_arancelaria": "0604.90.01",
-    "reglas": "",
+    "reglas": "Regla 1: Clasificación directa según el nombre botánico citado en la subpartida.",
     "imagen": "imagenes/Musgo.jpg",
     "categoria": "Reino vegetal",
     "link": "http://www.siicex-caaarem.org.mx/Bases/TIGIE2007.nsf/4caa80bd19d9258006256b050078593c/93d434466113498886257a2f00698c17?OpenDocument"
@@ -111,7 +111,7 @@
     "partida": "7104",
     "subpartida": "7104.10",
     "fraccion_arancelaria": "7104.10.01",
-    "reglas": "",
+    "reglas": "Regla 1: El producto está textualmente incluido como 'cuarzo piezoeléctrico'.",
     "categoria": "Piedras preciosas",
     "imagen": "imagenes/Cuarzo.jpg",
     "link": "http://www.siicex-caaarem.org.mx/Bases/TIGIE2007.nsf/4caa80bd19d9258006256b050078593c/e4f65f7cafa463ce8625730200731e55?OpenDocument"
@@ -124,7 +124,7 @@
     "partida": "7903",
     "subpartida": "7903.10",
     "fraccion_arancelaria": "7903.10.01",
-    "reglas": "",
+    "reglas": "Regla 1: El producto se clasifica directamente por su forma física como 'polvo de cinc'.",
     "categoria": "Manufacturas de cinc",
     "imagen": "imagenes/Condensacion.jpg",
     "link": "http://www.siicex-caaarem.org.mx/Bases/TIGIE2007.nsf/4caa80bd19d9258006256b050078593c/e5e9096251fd3c408625730200732f3f?OpenDocument"
@@ -137,7 +137,7 @@
     "partida": "9404",
     "subpartida": "9404.10",
     "fraccion_arancelaria": "9404.10.01",
-    "reglas": "",
+    "reglas": "Regla 1 y Regla 2a: Clasificación por mención directa. Regla 2a aplica si se importa desarmado.",
     "categoria": "Articulos de cama",
     "imagen": "imagenes/Somier.jpg",
     "link": "http://www.siicex-caaarem.org.mx/Bases/TIGIE2007.nsf/4caa80bd19d9258006256b050078593c/85b6967122cb98808625730200736e45?OpenDocument"
@@ -150,7 +150,7 @@
     "partida": "6806",
     "subpartida": "6806.20",
     "fraccion_arancelaria": "6806.20.01",
-    "reglas": "",
+    "reglas": "Regla 1: Está incluida expresamente en el texto legal de la subpartida como 'arcilla dilatada'.",
     "categoria": "Manufacturas de piedra",
     "imagen": "imagenes/Arcilla.jpg",
     "link": "http://www.siicex-caaarem.org.mx/Bases/TIGIE2007.nsf/4caa80bd19d9258006256b050078593c/c2309a2174c7a08a862573020073198f?OpenDocument"
@@ -163,7 +163,7 @@
     "partida": "2601",
     "subpartida": "2601.20",
     "fraccion_arancelaria": "2601.20.01",
-    "reglas": "",
+    "reglas": "Regla 1: Se encuentra textualmente en la subpartida como 'piritas de hierro tostadas'.",
     "categoria": "Productos minerales",
     "imagen": "imagenes/Piritas.jpg",
     "link": "http://www.siicex-caaarem.org.mx/Bases/TIGIE2007.nsf/4caa80bd19d9258006256b050078593c/29df40c61fa3b2db862573020072b748?OpenDocument"
@@ -176,7 +176,7 @@
     "partida": "2612",
     "subpartida": "2612.20",
     "fraccion_arancelaria": "2612.20.01",
-    "reglas": "",
+    "reglas": "Regla 1: Clasificación directa al estar mencionado como 'minerales de torio'.",
     "categoria": "Productos minerales",
     "imagen": "imagenes/Torio.jpg",
     "link": "http://www.siicex-caaarem.org.mx/Bases/TIGIE2007.nsf/4caa80bd19d9258006256b050078593c/6f0a0a329a07cd22862573020072b78b?OpenDocument"
@@ -189,16 +189,13 @@
     "partida": "8404",
     "subpartida": "8404.20",
     "fraccion_arancelaria": "8404.20.01",
-    "reglas": "",
+    "reglas": "Regla 1: Producto especificado en el texto de la subpartida",
     "categoria": "Maquinas de vapor y sus partes",
     "imagen": "imagenes/Condensador.jpg",
     "link": "http://www.siicex-caaarem.org.mx/Bases/TIGIE2007.nsf/4caa80bd19d9258006256b050078593c/85daeea34a56f8cf86257302007334bf?OpenDocument"
   },
 
 
-
-
-  
   {
     "nombre": "Sonda calador para muestras de granos y semillas",
     "descripcion": "Herramienta cilíndrico metalico utilizada en la agricultura para tomar muestras de granos y semillas.",
@@ -207,7 +204,7 @@
     "partida": "8437",
     "subpartida": "8437.10",
     "fraccion_arancelaria": "8437.10.04",
-    "reglas": "",
+    "reglas": "Regla 1, Regla 3b y Regla 6: El uso funcional determina su clasificación dentro de maquinaria agrícola, no como herramienta independiente",
     "categoria": "Maquinas para limpieza",
     "imagen": "imagenes/Sonda.jpg",
     "link":""
@@ -220,7 +217,7 @@
     "partida": "1211",
     "subpartida": "1211.90",
     "fraccion_arancelaria": "1211.90.99",
-    "reglas": "",
+    "reglas": "Regla 1 y Regla 4: Aunque no aparece directamente con su nombre comercial, se clasifica como 'otras plantas medicinales', aplicando analogía por uso (Regla 4)",
     "categoria": "Reino vegetal",
     "imagen": "imagenes/Sangre.jpg",
     "link": ""
@@ -233,7 +230,7 @@
     "partida": "1521",
     "subpartida": "1521.10",
     "fraccion_arancelaria": "1521.10.01 ",
-    "reglas": "",
+    "reglas": "Regla 1: La cera de palma está expresamente mencionada en la subpartida correspondiente",
     "categoria": "Grasas y aceites animales o vegetales",
     "imagen": "imagenes/Cera.jpg",
     "link": "http://www.siicex-caaarem.org.mx/Bases/TIGIE2007.nsf/4caa80bd19d9258006256b050078593c/9ead2d8ec6fea685862573020072af6b?OpenDocument"
@@ -246,7 +243,7 @@
     "partida": "7104",
     "subpartida": "7104.20",
     "fraccion_arancelaria": "7104.20.01",
-    "reglas": "",
+    "reglas": "Regla 1 y Regla 6: Clasificación directa como piedra semipreciosa, y la Regla 6 delimita entre diferentes piedras no sintéticas",
     "categoria": "Piedras preciosas",
     "imagen": "imagenes/Opalo.jpg",
     "link": "http://www.siicex-caaarem.org.mx/Bases/TIGIE2007.nsf/4caa80bd19d9258006256b050078593c/27755a3130eb8fa68625730200731e58?OpenDocument"
@@ -259,7 +256,7 @@
     "partida": "4001",
     "subpartida": "4001.30",
     "fraccion_arancelaria": "4001.30.03",
-    "reglas": "",
+    "reglas": "Regla 1: El producto corresponde a la descripción de látex natural especificada en la subpartida",
     "categoria": "Industrias Químicas",
     "imagen": "imagenes/Latex.jpg",
     "link": ""
@@ -272,7 +269,7 @@
     "partida": "0301",
     "subpartida": "0301.99",
     "fraccion_arancelaria": "0301.99.99",
-    "reglas": "",
+    "reglas": "Regla 1 y Regla 4: Clasificados como peces vivos no especificados, por analogía a otras especies acuáticas (Regla 4)",
     "categoria": "Animales vivos y productos del reino animal",
     "imagen": "imagenes/Pez.jpg",
     "link": "http://www.siicex-caaarem.org.mx/Bases/TIGIE2007.nsf/4caa80bd19d9258006256b050078593c/b2c84026315d8b9f862573020072a287?OpenDocument"
@@ -285,7 +282,7 @@
     "partida": "5604",
     "subpartida": "5604.90",
     "fraccion_arancelaria": "5604.90.02",
-    "reglas": "",
+    "reglas": "Regla 1: Las telas artificiales están claramente descritas en la subpartida",
     "categoria": "Materias textiles y sus manufacturas",
     "imagen": "imagenes/Tela.jpg",
     "link": "http://www.siicex-caaarem.org.mx/Bases/TIGIE2007.nsf/4caa80bd19d9258006256b050078593c/138ac29ec7ef5b2c8625730200730c62?OpenDocument"
@@ -298,7 +295,7 @@
     "partida": "0810",
     "subpartida": "0810.90 ",
     "fraccion_arancelaria": "0810.90.99 ",
-    "reglas": "",
+    "reglas": "Regla 1 y Regla 6: Clasificada como 'otros frutos frescos'; Regla 6 delimita subpartidas dentro del mismo nivel.",
     "categoria": "Reino vegetal",
     "imagen": "imagenes/Pitahaya.jpg",
     "link": "http://www.siicex-caaarem.org.mx/Bases/TIGIE2007.nsf/4caa80bd19d9258006256b050078593c/b4ead7e268b08493862573020072a96d?OpenDocument"
@@ -311,7 +308,7 @@
     "partida": "2621",
     "subpartida": "2621.90 ",
     "fraccion_arancelaria": "2621.90.99 ",
-    "reglas": "",
+    "reglas": "Regla 1 y Regla 4: No mencionada explícitamente; se clasifica por analogía con residuos minerales similares",
     "categoria": "Productos minerales",
     "imagen": "imagenes/Ceniza.jpg",
     "link": "http://www.siicex-caaarem.org.mx/Bases/TIGIE2007.nsf/4caa80bd19d9258006256b050078593c/3165018003ef941d862573020072b810?OpenDocument"
@@ -325,7 +322,7 @@
     "partida": "3001",
     "subpartida": "3001.20  ",
     "fraccion_arancelaria": "3001.20.99 ",
-    "reglas": "",
+    "reglas": "Regla 1, Regla 3a y Regla 4: Aunque no aparece literalmente, se considera sustancia de origen animal para uso medicinal, priorizando uso esencial y analogía",
     "categoria": "Industrias Químicas",
     "imagen": "imagenes/Sapo.jpg",
     "link": ""
@@ -339,7 +336,7 @@
     "partida": "0810",
     "subpartida": "0810.90",
     "fraccion_arancelaria": "0810.90.99",
-    "reglas": "",
+    "reglas": "Regla 1: Fruta tropical no listada específicamente; clasificada bajo 'otros frutos",
     "categoria": "Reino vegetal",
     "imagen": "imagenes/Mango.jpg",
     "link": ""
@@ -352,7 +349,7 @@
     "partida": "0902",
     "subpartida": "0902.40",
     "fraccion_arancelaria": "0902.40.01",
-    "reglas": "",
+    "reglas": "Regla 1: Clasificación directa como té semifermentado, según lo mencionado en la subpartida",
     "categoria": "Reino vegetal",
     "imagen": "imagenes/Te.jpg",
     "link": "http://www.siicex-caaarem.org.mx/Bases/TIGIE2007.nsf/4caa80bd19d9258006256b050078593c/a658c1236958c838862573020072a9e7?OpenDocument"
@@ -366,7 +363,7 @@
     "partida": "1518",
     "subpartida": "1518.00",
     "fraccion_arancelaria": "1518.00.99",
-    "reglas": "",
+    "reglas": "Regla 1 y Regla 4: No está listado con ese nombre, pero se clasifica como otras grasas de origen animal según características y uso (analogía).",
     "categoria": "Industrias Químicas",
     "imagen": "imagenes/Aceite.jpg",
     "link": "http://www.siicex-caaarem.org.mx/Bases/TIGIE2007.nsf/4caa80bd19d9258006256b050078593c/42e9ad85cfc0bb78862573020072af62?OpenDocument"
@@ -380,7 +377,7 @@
     "partida": "2805",
     "subpartida": "2805.30",
     "fraccion_arancelaria": "2805.30.01",
-    "reglas": "",
+    "reglas": "Regla 1: Metal raro mencionado explícitamente como lantánido en la subpartida",
     "categoria": "Metales",
     "imagen": "imagenes/Lantano.jpg",
     "link": "http://www.siicex-caaarem.org.mx/Bases/TIGIE2007.nsf/4caa80bd19d9258006256b050078593c/2d5382e2b78259cd862573020072ba01?OpenDocument"
@@ -394,7 +391,7 @@
     "partida": "2849",
     "subpartida": "2849.90",
     "fraccion_arancelaria": "2849.90.99",
-    "reglas": "",
+    "reglas": "Regla 1: Producto químico inorgánico no listado específicamente pero comprendido bajo 'los demás' de la partida de siliciuros.",
     "categoria": "Industrias Químicas",
     "imagen": "imagenes/Siliciuro.jpg",
     "link": ""
